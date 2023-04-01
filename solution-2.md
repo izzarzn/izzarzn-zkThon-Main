@@ -1,3 +1,9 @@
+
+Transaction Hash - 0x4fc025825012459951def5a3e92511989cb9f8966c11931c4a310e870e8bf3ee
+
+Contract - 0x68c5b8CAa86B5E32645A33Fe41AE6d132A889FAc
+
+
 '''sol
 
 // SPDX-License-Identifier: MIT
@@ -16,9 +22,5 @@ contract ZkThon is ERC20, ERC20Burnable, Ownable {
         _mint(to, amount);
     }
 }
-'''
 
 
-Transaction Hash - 0x4fc025825012459951def5a3e92511989cb9f8966c11931c4a310e870e8bf3ee
-
-Contract - 0x68c5b8CAa86B5E32645A33Fe41AE6d132A889FAc
