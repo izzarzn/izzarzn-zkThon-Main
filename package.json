@@ -1,0 +1,15 @@
+{
+  "name": "izzarzn_zkthon-main",
+  "version": "1.0.0",
+  "description": "![zkThon Github Main Readme](https://user-images.githubusercontent.com/128218414/226963031-48178406-8f64-4b37-933c-185ab960a0de.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^6.2.2"
+  }
+}
